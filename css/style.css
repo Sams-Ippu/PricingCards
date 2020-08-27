@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arimo', sans-serif;
+}
+
+#bg-imagee {
+    background: url(../img/mahabis-footwear-2E5pym71N6A-unsplash.jpg);
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 740px;
+}
